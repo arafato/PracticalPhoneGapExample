@@ -92,6 +92,7 @@
     <Content Include="www\js\index.min.js">
       <DependentUpon>index.js</DependentUpon>
     </Content>
+    <Content Include="www\js\router.js" />
     <Content Include="www\js\settings.js" />
     <Content Include="www\js\settings.min.js">
       <DependentUpon>settings.js</DependentUpon>
